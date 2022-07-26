@@ -9,7 +9,7 @@ public class MainController {
 	@GetMapping("/home")
 	public String home() {
 		
-		return "안녕 여기는 스프링~!!!!!!! 여기 수정했지 모야 빠끄!";
+		return "안녕 여기는 스프링~!!!!!!! 여기 수정했지 모야 빠끄!!!!!!!! 수정수정";
 	}
 
 }
